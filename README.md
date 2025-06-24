@@ -1,1 +1,1 @@
-# OpenMV-Cam-Rat-s-Position-Detection
+OpenMV Cam Script for Rat's Position and Movement Detection!
